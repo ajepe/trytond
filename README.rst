@@ -1,4 +1,4 @@
-trytond
+Trytond
 =======
 
 The server of Tryton.
